@@ -1,4 +1,1 @@
-testtesttest
-changed
-aaa
-changed
+test
