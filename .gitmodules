@@ -1,4 +1,4 @@
 [submodule "test4"]
 	path = test4
 	url = https://github.com/seiya-suzuki/test4.git
-	branch = develop
+	branch = c49aa25a6ce42a0ee54aea2973750052ea1709d6
